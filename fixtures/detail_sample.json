@@ -1,0 +1,49 @@
+{
+ "id": "33333333-3333-3333-3333-333333333333",
+ "gymId": 1000003,
+ "gymUUID": "aaaaaaaa-0000-0000-0000-000000000003",
+ "gymChainName": "Riverside Pilates",
+ "alias": "Riverside Pilates",
+ "slug": "river-riverside-pilates",
+ "studioType": "PILATES",
+ "qualitrainGym": true,
+ "qualitrainPlusOneGym": true,
+ "wellpassGlobalGym": true,
+ "locale": "de_DE",
+ "timezone": "Europe/Berlin",
+ "description": "A sample Pilates studio used as a test fixture. Synthetic data only.",
+ "qualitrainOfferDescription": "All Pilates reformer classes included.",
+ "website": "https://example.invalid/riverside",
+ "email": "info@example.invalid",
+ "phone": "+49 000 0000000",
+ "address": {
+  "street": "Example Street 1",
+  "zip": "55116",
+  "city": "Sampletown",
+  "country": "DE",
+  "latitude": 50.0,
+  "longitude": 8.26
+ },
+ "membershipTypes": ["PLUS_1", "UNLIMITED"],
+ "options": ["COURSES_IN_ENGLISH", "ACCESSIBLE_TO_PREGNANT_WOMEN"],
+ "openingHoursV2": {
+  "monday": [{"start": {"hour": 8, "minute": 0}, "end": {"hour": 20, "minute": 0}}],
+  "sunday": "NOT_AVAILABLE",
+  "publicHoliday": "NOT_AVAILABLE",
+  "exceptions": [],
+  "additionalInfo": null
+ },
+ "classBookingConfig": {
+  "enabled": false,
+  "bookingRequiredForCheckin": false,
+  "createMemberAccountForCheckin": false,
+  "hasAccessPass": false,
+  "autoCheckinMode": "DISABLED",
+  "checkinOnlyGym": false,
+  "checkinHandledExternally": false,
+  "skipCheckinRequiredForMmsAccess": false
+ },
+ "externalBookingInfo": null,
+ "gymImages": [],
+ "exceptionalOpeningHours": []
+}

@@ -1,0 +1,102 @@
+[
+ {
+  "brief": {
+   "id": "900000001:100000001",
+   "name": "Body & Mind Flow",
+   "type": null,
+   "startDateTime": 1791135300000,
+   "endDateTime": 1791138000000,
+   "maxCapacity": 20,
+   "totalBooked": 5,
+   "waitlistCapacity": 0,
+   "waitlistBooked": 0,
+   "availableSpots": null,
+   "instructor": {"id": "INSTR0", "fullName": "Instructor A", "customInfo": null},
+   "activity": {"id": "Body & Mind", "description": "Body & Mind"},
+   "free": true,
+   "childCare": false,
+   "reservable": false,
+   "liveStreamClass": false,
+   "availableOptions": null,
+   "cancelled": false,
+   "booked": false,
+   "waitlisted": null,
+   "customInfo": null,
+   "clubUuid": "aaaaaaaa-0000-0000-0000-000000000009"
+  },
+  "details": {
+   "room": "Studio 1",
+   "level": "L1/L2",
+   "cancellationWindowEnd": 1791135300000,
+   "bookingWindowStart": null,
+   "bookingWindowEnd": null
+  },
+  "attendeeDetails": null
+ },
+ {
+  "brief": {
+   "id": "900000001:100000002",
+   "name": "Cardio Circuit",
+   "type": null,
+   "startDateTime": 1791176400000,
+   "endDateTime": 1791180000000,
+   "maxCapacity": 20,
+   "totalBooked": 1,
+   "availableSpots": null,
+   "instructor": {"id": "INSTR1", "fullName": "Instructor B"},
+   "activity": {"id": "Cardio", "description": "Cardio"},
+   "free": true,
+   "reservable": false,
+   "liveStreamClass": false,
+   "cancelled": false,
+   "booked": false,
+   "clubUuid": "aaaaaaaa-0000-0000-0000-000000000009"
+  },
+  "details": {"room": "Studio 2", "level": "L2", "cancellationWindowEnd": 1791176400000},
+  "attendeeDetails": null
+ },
+ {
+  "brief": {
+   "id": "900000001:100000003",
+   "name": "Strength & Shape",
+   "type": null,
+   "startDateTime": 1791189000000,
+   "endDateTime": 1791192600000,
+   "maxCapacity": 20,
+   "totalBooked": 20,
+   "availableSpots": null,
+   "instructor": {"id": "INSTR2", "fullName": "Instructor C"},
+   "activity": {"id": "Shape", "description": "Shape"},
+   "free": true,
+   "reservable": false,
+   "liveStreamClass": false,
+   "cancelled": false,
+   "booked": false,
+   "clubUuid": "aaaaaaaa-0000-0000-0000-000000000009"
+  },
+  "details": {"room": "Studio 1", "level": "L2", "cancellationWindowEnd": 1791189000000},
+  "attendeeDetails": null
+ },
+ {
+  "brief": {
+   "id": "900000001:100000004",
+   "name": "Online Yoga Live",
+   "type": "1",
+   "startDateTime": 1791200000000,
+   "endDateTime": 1791203600000,
+   "maxCapacity": 0,
+   "totalBooked": 0,
+   "availableSpots": null,
+   "instructor": {"id": "INSTR3", "fullName": "Instructor D"},
+   "activity": {"id": "Yoga", "description": "Yoga"},
+   "free": true,
+   "reservable": false,
+   "liveStreamClass": true,
+   "cancelled": false,
+   "booked": false,
+   "clubUuid": "aaaaaaaa-0000-0000-0000-000000000009"
+  },
+  "details": {"room": null, "level": null, "cancellationWindowEnd": 1791200000000},
+  "attendeeDetails": null
+ }
+]

@@ -1,0 +1,18 @@
+# Secrets — never commit
+.env
+
+# Reverse-engineering captures (hold token + personal profile)
+*.mitm
+flows*.mitm
+*.apk
+fixtures/raw/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
